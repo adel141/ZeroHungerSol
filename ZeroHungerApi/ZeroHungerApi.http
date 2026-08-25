@@ -1,0 +1,6 @@
+@ZeroHungerApi_HostAddress = http://localhost:5023
+
+GET {{ZeroHungerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
